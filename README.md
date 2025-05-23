@@ -28,7 +28,7 @@ Feeling bored or need a quick mental reset while studying? Play a round of class
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/study-break-snake.git](https://github.com/YOUR_USERNAME/study-break-snake.git)
+    git clone [https://github.com/Anantram-developer/study-break-snake.git](https://github.com/Anantram-developer/study-break-snake.git)
     ```
 2.  **Navigate to the Directory:**
     ```bash
